@@ -45,4 +45,8 @@ public class Car implements Serializable {
 	public boolean isSoldState() {
 		return randomSoldState;
 	}
+	
+	public void dummymethod() {
+		
+	}
 }
